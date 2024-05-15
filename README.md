@@ -144,7 +144,6 @@ Thus,the simulation and synthesis of multipliers by using vivado has been succes
 
 
 
-**Result**
 
 
 
